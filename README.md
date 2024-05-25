@@ -1,7 +1,8 @@
 
 Makine Öğrenmesindeki Temel Kavramlar
 Bu proje, makine öğrenmesi alanındaki temel kavramları, yöntemleri ve algoritmaları kapsamlı ve anlaşılır bir şekilde sunmayı amaçlamaktadır. Makine öğrenmesine yeni başlayanlar ve bu alandaki bilgilerini derinleştirmek isteyenler için detaylı açıklamalar, örnekler ve rehberler içermektedir.
-1.Giriş Makine öğrenmesine genel bir bakış ve temel kavramların tanıtımı.
+1.Giriş(https://github.com/MrGunes0/Makine_Ogrenmesi/tree/main/1-Giris)
+Makine öğrenmesine genel bir bakış ve temel kavramların tanıtımı.
 2.Veri ve Veri Ön İşleme Verinin makine öğrenmesindeki önemi, veri türleri, veri temizleme, veri ön işleme teknikleri ve özellik mühendisliği.
 3.Öğrenme Türleri Denetimli öğrenme, denetimsiz öğrenme, yarı denetimli öğrenme ve pekiştirmeli öğrenme gibi temel öğrenme türleri.
 4.Temel Algoritmalar Lineer regresyon, lojistik regresyon, karar ağaçları, rasgele ormanlar, destek vektör makineleri (SVM), k-en yakın komşu (KNN), k-ortalamalar (K-Means) ve yapay sinir ağları gibi sık kullanılan algoritmalar.
