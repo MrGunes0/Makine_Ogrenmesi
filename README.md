@@ -1,4 +1,4 @@
-### **Makine Öğrenmesindeki Temel Kavramlar**
+### **Makine Öğrenmesi**
 
 Bu proje, makine öğrenmesi alanındaki temel kavramları, yöntemleri ve algoritmaları kapsamlı ve anlaşılır bir şekilde sunmayı amaçlamaktadır. Makine öğrenmesine yeni başlayanlar ve bu alandaki bilgilerini derinleştirmek isteyenler için detaylı açıklamalar, örnekler ve rehberler içermektedir.
 
@@ -33,3 +33,5 @@ Projeye katkıda bulunmak isteyenler, pull request açarak veya issue oluşturar
 **Amaç**
 
 Bu proje, makine öğrenmesi konusundaki bilgi ve deneyimlerinizi artırmanıza yardımcı olmayı amaçlamaktadır. İçeriklerin düzenli olarak güncellenmesi ve genişletilmesi planlanmaktadır.
+
+
